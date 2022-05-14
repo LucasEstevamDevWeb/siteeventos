@@ -1,0 +1,36 @@
+@media (max-width: 959px){
+    .color_nav{
+        height: 60px;
+        padding: 0px;
+    }
+
+    .uk-navbar-toggle{
+        position: relative;
+        top: -8px;
+    }
+
+    .uk-navbar-toggle{
+
+        min-height: 75px;
+        padding: 0 0;
+     
+     }
+
+     .navborder{
+        margin: 0px 0px;
+    } 
+
+    .bg_banner a{
+        max-width: 100%;
+        font-weight: 600;
+    }
+
+    #menu_footer{
+        display: flex;
+    }
+
+    #footer_coluna{
+        min-width: 50%;
+    }
+
+}
